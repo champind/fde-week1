@@ -1,0 +1,27 @@
+[
+  {
+    "invoice_id": "INV-1001",
+    "vendor": "Acme Corp",
+    "amount": 250.00
+  },
+  {
+    "invoice_id": "INV-1002",
+    "vendor": "Globex Systems",
+    "amount": 400.00
+  },
+  {
+    "invoice_id": "INV-1003",
+    "vendor": "Acme Corp",
+    "amount": 150.00
+  },
+  {
+    "invoice_id": "INV-1004",
+    "vendor": "Soylent Tech",
+    "amount": 300.00
+  },
+  {
+    "invoice_id": "INV-1005",
+    "vendor": "Globex Systems",
+    "amount": 100.00
+  }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "payment_id": 1,
+        "invoice_id": "INV-101",
+        "paid": 85000
+    },
+    {
+        "payment_id": 2,
+        "invoice_id": "INV-101",
+        "paid": 85000
+    },
+    {
+        "payment_id": 3,
+        "invoice_id": "INV-104",
+        "paid": 60000
+    },
+    {
+        "payment_id": 4,
+        "invoice_id": "INV-109",
+        "paid": 12000
+    },
+    {
+        "invoice_id": "INV-106",
+        "paid": 100000.0,
+        "payment_id": 6
+    }
+]
